@@ -7,7 +7,7 @@
 </picture>
 
 ## About Me
-I am currently looking for roles in Data Science.
+I am currently looking for roles in Data Science. You can have a look at the projects that I have done at the HyperionDev Data Science Bootcamp.
 <!--
 **branavan96/branavan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
