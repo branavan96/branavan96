@@ -1,5 +1,11 @@
 ### Hi there, I'm Branavan and this is my GitHub account. 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ## About Me
 I am currently looking for roles in Data Science.
 <!--
