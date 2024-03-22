@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[Profile](https://github.com/branavan96/branavan96/assets/151564869/7b7b2824-b655-4693-aa78-b5c0887753d9)">
+ <img alt="[Profile](https://github.com/branavan96/branavan96/assets/151564869/7b7b2824-b655-4693-aa78-b5c0887753d9)" src="[Profile](https://github.com/branavan96/branavan96/assets/151564869/7b7b2824-b655-4693-aa78-b5c0887753d9)">
 
 </picture>
 <!--
