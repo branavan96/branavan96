@@ -1,6 +1,7 @@
 ### Hi there, I'm Branavan and this is my GitHub account. 👋
 
-</picture>
+## About Me
+I am currently looking for roles in Data Science.
 <!--
 **branavan96/branavan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
