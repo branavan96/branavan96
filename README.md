@@ -1,5 +1,4 @@
 ### Hi there, I'm Branavan and this is my GitHub account. 👋
-<img/[Profile](https://github.com/branavan96/branavan96/assets/151564869/4d5d7983-6ace-4d81-a38a-251d334876a3)>
 
 <!--
 **branavan96/branavan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
