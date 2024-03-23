@@ -6,7 +6,7 @@
 </picture>
 
 ## Summary
-I am a BSc Mathematics graduate, who is currently looking for roles in Data Science. You can have a look at the projects that I have done at the HyperionDev Data Science Bootcamp.
+I am a BSc Mathematics graduate from Brunel University, who is currently looking for roles in Data Science. You can have a look at the projects that I have done at the HyperionDev Data Science Bootcamp.
 
 As well as this, I have good conversational language skills in French. As well as this I can work well in a team and use Microsoft Office.
 
