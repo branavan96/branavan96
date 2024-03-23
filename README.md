@@ -6,4 +6,5 @@
 </picture>
 
 ## About Me
-I am currently looking for roles in Data Science. You can have a look at the projects that I have done at the HyperionDev Data Science Bootcamp.
+I am a BSc Mathematics graduate, who is currently looking for roles in Data Science. You can have a look at the projects that I have done at the HyperionDev Data Science Bootcamp.
+
